@@ -13,7 +13,7 @@ This project is take from Datacamp as a part of assessments to achieve Data Scie
 1. Analyze popularity, quality, and guest appearances on the Office
 2. Checking guest star who became the most watched
 
-**The objective for unguided project are:**
+**The objective for guided project are:**
 
 1. Loading your friend's data into a dictionary
 2. Creating a DataFrame from a dictionary
